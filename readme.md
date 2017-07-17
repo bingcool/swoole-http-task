@@ -1,6 +1,6 @@
 首先要安装swoole扩展。    
 这是基于swoole-http-server的异步多任务调度服务，在php的cli模式下启动Task.php   
-在cli模式下执行php Task.php    
+在cli模式下执行php Task.php或者/usr/bin/php   
    
 Event.php专注于各种业务，自己根据业务扩展功能。        
 Task.php的配置   
