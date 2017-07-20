@@ -15,4 +15,4 @@ $http->set(array(
 		);    
 可以根据自己的实际情况重新配置。        
 具体参考：http://wiki.swoole.com/wiki/index/prid-1     
-这是swoole的官网和文档说明。   
+这是swoole的官网和文档说明,可以参考例子。   
